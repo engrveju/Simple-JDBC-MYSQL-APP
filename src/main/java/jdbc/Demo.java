@@ -10,7 +10,7 @@ public class Demo {
     public static void main(String[] args) throws Exception {
         String url = "jdbc:mysql://localhost:3306/jideofor";
         String userName = "root";
-        String passWord = "ManuelAd1929";
+        String passWord = "emmanuel";
        // Class.forName("com.mysql.jdbc.Driver");
         //There is no need to load this class manually. Just copy mysql connector maven dependency and load it
 
