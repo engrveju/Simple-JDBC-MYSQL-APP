@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cff443f-94b9-433c-935f-3ea9a59e7e86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/artifacts/Aliyu_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/artifacts/Aliyu_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/src/main/java/com/aliyu/aliyu/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aliyu/src/main/java/com/aliyu/aliyu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/artifacts/ServletApp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/artifacts/ServletApp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/src/main/java/com/serve/dao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/src/main/java/com/serve/dao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/src/main/java/com/serve/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/DatabaseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/ConnectTomCat_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/ConnectTomCat_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/Telusko_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/Telusko_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/jidecat_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/jidecat_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/myFace_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/myFace_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/testing_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/artifacts/testing_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/deletes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/MYSQL/SQL/SQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/PodChat/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/TUTORIALS/TUTORIALS/TUTORIALS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/ConnectTomCat/ConnectTomCat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/SimpleJDBC APP/SimpleJDBCAPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/Telusko/Telusko.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/jidecat/jidecat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/myFace/myFace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deletes/week-six-sq012-engrveju/atom/testing/testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/artifacts/demo2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/artifacts/demo2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/jide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/Convenience_Store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/CashierServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/CustomerCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ManagerServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ManagerServicesImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ProductList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/Receipt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Applicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/ProfileImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/com/Convenience_Store/UserRoles/UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/test/java/CashierServicesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/test/java/CustomerCartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/Convenience_Store/test/java/ManagerServicesImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/CashierServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/CustomerCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/ManagerServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/ManagerServicesImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/ProductList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/Products_And_Services/Receipt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/Applicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/StaffsAndCustomer/ProfileImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/com/Convenience_Store/UserRoles/UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/test/java/CashierServicesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/test/java/CustomerCartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/out/production/UGWUEZE/test/java/ManagerServicesImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conveniece Store Project/week-one-sq012-engrveju" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MYSQL/SQL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MYSQL/SQL/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PodChat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PodChat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PodChat/pod-e-socket-example" beforeDir="false" afterPath="$PROJECT_DIR$/../../PodChat/pod-e-socket-example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PodChat/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PodChat/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/src/main/java/Tutorials/multiThread_Concurrency/Thread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/src/main/java/Tutorials/multiThread_Concurrency/Thread/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/src/main/java/Tutorials/multiThread_Concurrency/synchronization/MySync.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/src/main/java/Tutorials/multiThread_Concurrency/synchronization/MySync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/target/classes/Tutorials/multiThread_Concurrency/Lambda/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/target/classes/Tutorials/multiThread_Concurrency/Lambda/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/target/classes/Tutorials/multiThread_Concurrency/Thread/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUTORIALS/TUTORIALS/target/classes/Tutorials/multiThread_Concurrency/Thread/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/Convenience_Store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/CashierServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/CustomerCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ManagerServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ManagerServicesImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/ProductList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/Products_And_Services/Receipt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Applicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/StaffsAndCustomer/ProfileImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/com/Convenience_Store/UserRoles/UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/test/java/CashierServicesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/test/java/CustomerCartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/out/production/Convenience_Store/test/java/ManagerServicesImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UGWUEZE/week-one-sq012-engrveju" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/src/main/java/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/src/main/java/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/src/main/java/jdbc/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/src/main/java/jdbc/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/target/classes/jdbc/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/SimpleJDBC APP/target/classes/jdbc/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/Telusko/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/Telusko/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/Telusko/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/Telusko/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/Telusko/src/main/java/telusko/telusko/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/Telusko/src/main/java/telusko/telusko/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/Telusko/src/main/java/telusko/telusko/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/Telusko/src/main/java/telusko/telusko/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/Telusko/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/Telusko/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/jidecat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/jidecat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/jidecat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/jidecat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/myFace/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/myFace/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/myFace/src/main/java/twitter/myface/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/myFace/src/main/java/twitter/myface/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/myFace/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../atom/myFace/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/artifacts/testing_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/artifacts/testing_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/controllers/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/controllers/SignUpServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/dtos/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/models/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/java/com/example/demo2/util/DataBaseConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/webapp/dashboard.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/webapp/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../atom/testing/src/main/webapp/signup.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/myProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tested/.idea/tested.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/.idea/week_1_Task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week1/week-one-sq012-engrveju" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H242VoAvLXqSKyVkdlVrwsisGQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/deca/Desktop/Personal/aliyu2/src/main/java/org/example"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="aliyu2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cff443f-94b9-433c-935f-3ea9a59e7e86" name="Changes" comment="" />
+      <created>1667469639366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667469639366</updated>
+      <workItem from="1667469643361" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
