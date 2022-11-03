@@ -14,7 +14,7 @@ public List<Student> list = null;
         try {
             s1 = new Student();
             s1.age = age;
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jideofor", "root", "ManuelAd1929");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/jideofor", "root", "emmanuel");
             Statement st = con.createStatement();
             ResultSet rs = st.executeQuery("select * from deve where age >" + age);
             list = new ArrayList<>();
